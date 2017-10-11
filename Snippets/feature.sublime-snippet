@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[feature '${1:description}' do
+    <content><![CDATA[feature "${1:description}" do
   $0
 end]]></content>
     <tabTrigger>fea</tabTrigger>
